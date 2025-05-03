@@ -1,6 +1,6 @@
 # Web-based Microservice for monitoring indoor air quality based on BIM & IoT
 
-Visit the Live Demo: [https://jchung-rpi.github.io/Comfit-Demo/](https://jchung-rpi.github.io/Comfit-Demo/)
+Visit the Live Demo: [https://jchung-research.github.io/Comfit-Demo/](https://jchung-research.github.io/Comfit-Demo/)
 
 ## Project Background
 - In smart home IoT sensors, one of the difficulties for users is to connect the sensor data with building information and analyze the real-time data. This project aims to develop a web-based building system platform for non-experts to easily monitor indoor thermal comfort and air quality using BIM & IoT sensors
